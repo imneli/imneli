@@ -24,13 +24,6 @@
   <img src="https://i.imgur.com/EFon86c.png" alt="Instagram"/></a>
 </p>
 
- <style>
-    .redes {
-      padding: 5px;
-    }
-
- </style>
-
 
 ---
 
