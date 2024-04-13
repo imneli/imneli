@@ -11,18 +11,25 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo por aqui: ⤵️
+  💌 Entre em contato comigo por aqui:
 </p>
 
 
 <p align="left">
-  <a href="mailto:contatodoneli@gmail.com" title="Gmail">
-<img src="https://i.imgur.com/F1MRCg0.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/matheus-rivera-4bbb04300/" title="LinkedIn">
-  <img src="https://i.imgur.com/bzoUe2g.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/theuwsx/" title="Instagram">
-  <img src="https://i.imgur.com/aSzxaSB.png" alt="Instagram"/></a>
+  <a class="redes" href="mailto:contatodoneli@gmail.com" title="Gmail">
+<img src="https://i.imgur.com/6mlqACS.png" alt="Gmail"/></a>
+  <a class="redes" href="https://www.linkedin.com/in/matheus-rivera-4bbb04300/" title="LinkedIn">
+  <img src="https://i.imgur.com/ai1hzxW.png" alt="LinkedIn"/></a>
+  <a class="redes" href="https://www.instagram.com/theuwsx/" title="Instagram">
+  <img src="https://i.imgur.com/EFon86c.png" alt="Instagram"/></a>
 </p>
+
+ <style>
+    .redes {
+      padding: 5px;
+    }
+
+ </style>
 
 
 ---
@@ -36,14 +43,7 @@
 <img src="https://i.imgur.com/lbiRxUl.png" alt="Javascript"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://i.imgur.com/ItvUS0k.png" alt="Python"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://i.imgur.com/2hxO5nb.png" alt="Html"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://i.imgur.com/ne0rRPO.png" alt="Css"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://i.imgur.com/ZqbWVZS.png" alt="Tailwind"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://i.imgur.com/jk6kJds.png" alt="Bootstrap"/></a>
+
 </p>
 
 # 🚀 Stats:
