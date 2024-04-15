@@ -32,10 +32,19 @@
 
 # 💻 Languages:
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="#" title="JavaScript">
 <img src="https://i.imgur.com/lbiRxUl.png" alt="Javascript"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="#" title="Python">
   <img src="https://i.imgur.com/ItvUS0k.png" alt="Python"/></a>
+
+</p>
+
+# 🔎 Frameworks & Libraries:
+<p align="left">
+  <a alt="Tailwind" href="#" title="Gmail">
+<img src="https://i.imgur.com/jnoaDiS.png" /></a>
+  <a alt="Bootstrap" href="#" title="LinkedIn">
+  <img src="https://i.imgur.com/KL7RRk0.png" /></a>
 
 </p>
 
