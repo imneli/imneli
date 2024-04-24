@@ -28,7 +28,7 @@
 ---
 
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imneli&theme=github-dark-dimmed&custom_title=imneli%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imneli&theme=github-dark-dimmed&custom_title=imneli%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 # 💻 Languages:
 <p align="left">
