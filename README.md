@@ -18,7 +18,7 @@
 <p align="left">
   <a class="redes" href="mailto:contatodoneli@gmail.com" title="Gmail">
 <img src="https://i.imgur.com/6mlqACS.png" alt="Gmail"/></a>
-  <a class="redes" href="https://www.linkedin.com/in/matheus-rivera-4bbb04300/" title="LinkedIn">
+  <a class="redes" href="https://www.linkedin.com/in/matheus-montovaneli-4bbb04300/" title="LinkedIn">
   <img src="https://i.imgur.com/ai1hzxW.png" alt="LinkedIn"/></a>
   <a class="redes" href="https://www.instagram.com/theuwsx/" title="Instagram">
   <img src="https://i.imgur.com/EFon86c.png" alt="Instagram"/></a>
