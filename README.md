@@ -39,15 +39,6 @@
 
 </p>
 
-# 🔎 Frameworks & Libraries:
-<p align="left">
-  <a alt="Tailwind" href="#" title="Gmail">
-<img src="https://i.imgur.com/jnoaDiS.png" /></a>
-  <a alt="Bootstrap" href="#" title="LinkedIn">
-  <img src="https://i.imgur.com/KL7RRk0.png" /></a>
-
-</p>
-
 # 🚀 Stats:
 
 [![imneli](https://github-readme-stats.vercel.app/api?username=imneli&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
