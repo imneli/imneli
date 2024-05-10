@@ -5,8 +5,8 @@
 <img id="comp" src="https://i.pinimg.com/originals/36/fb/33/36fb3346f60b3ef18544e47cacb0baf5.gif" alt="ilustração de um computador" width="200px" height="180px" align="right">
 
 <p align="left"> 
-  Me chamo Matheus, seja bem vindo ao meu perfil! Sou um developer que está estudando Engenharia de Software na <strong>Fiap</strong>.<br>
-  No momento estou me aprofundando em Web.
+  Me chamo Matheus, seja bem vindo ao meu perfil! Sou um developer que está estudando Engenharia de Software na <strong>FIAP</strong>.<br>
+  No momento estou me aprofundando em Front End com Js.
 
 </p>
 
@@ -17,11 +17,11 @@
 
 <p align="left">
   <a class="redes" href="mailto:contatodoneli@gmail.com" title="Gmail">
-<img src="https://i.imgur.com/6mlqACS.png" alt="Gmail"/></a>
+<img src="https://img.icons8.com/?size=256&id=Cjuj2uISMdQ1&format=png" width="48px" alt="Gmail"/></a>
   <a class="redes" href="https://www.linkedin.com/in/matheus-montovaneli-4bbb04300/" title="LinkedIn">
-  <img src="https://i.imgur.com/ai1hzxW.png" alt="LinkedIn"/></a>
+  <img src="https://img.icons8.com/?size=256&id=108812&format=png" width="48px" alt="LinkedIn"/></a>
   <a class="redes" href="https://www.instagram.com/theuwsx/" title="Instagram">
-  <img src="https://i.imgur.com/EFon86c.png" alt="Instagram"/></a>
+  <img src="https://img.icons8.com/?size=256&id=TEYr8ETaIfBJ&format=png" width="48px" alt="Instagram"/></a>
 </p>
 
 
