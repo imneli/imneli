@@ -2,7 +2,7 @@
 
 # 👾 Oi, eu sou o Neli :)
 
-<img id="comp" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img id="comp" src="https://i.pinimg.com/originals/36/fb/33/36fb3346f60b3ef18544e47cacb0baf5.gif" alt="ilustração de um computador" width="200px" height="180px" align="right">
 
 <p align="left"> 
   Me chamo Matheus, seja bem vindo ao meu perfil! Sou um developer que está estudando Engenharia de Software na <strong>Fiap</strong>.<br>
