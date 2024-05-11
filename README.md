@@ -41,7 +41,6 @@
 
 # 🚀 Stats:
 
-[![imneli](https://github-readme-stats.vercel.app/api?username=imneli&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imneli&theme=tokyonight&hide_border=false)<br/>
 
 <p align="center">
