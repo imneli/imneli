@@ -12,8 +12,8 @@
 
 
 <p align="center"> 
-  Me chamo Matheus, seja bem vindo ao meu perfil! Sou um developer que está estudando Engenharia de Software na <strong>FIAP</strong>.<br>
-  No momento estou me aprofundando em Front End com Js.
+  My name is Matheus, welcome to my profile! I'm a developer who is studying Software Engineering at FIAP.
+  I'm currently delving deeper into Front End with Js.
 
 </p>
 
