@@ -41,9 +41,9 @@
 
 <p align="center">
   <a href="#" title="JavaScript">
-<img src="https://i.imgur.com/lbiRxUl.png" alt="Javascript" width="80px"/></a>
+<img src="https://i.imgur.com/lbiRxUl.png" alt="Javascript" width="48px"/></a>
   <a href="#" title="Python">
-  <img src="https://i.imgur.com/ItvUS0k.png" alt="Python" width="80px"/></a>
+  <img src="https://i.imgur.com/ItvUS0k.png" alt="Python" width="48px"/></a>
 
 </p>
 
