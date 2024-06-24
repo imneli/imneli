@@ -56,15 +56,21 @@
   <a href="#" title="docker">
   <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/docker_icon_146192.png" alt="docker" width="48px"/></a>
 
-
-
 </p>
+
+<div align="center">
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imneli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+ </div>
 
 <br>
 <br> 
 <div align="center">
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=imneli&theme=tokyonight&hide_border=false)<br/>
+
+ 
   
 </div>
 
