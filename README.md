@@ -42,6 +42,10 @@
 <p align="center">
   <a href="#" title="JavaScript">
 <img src="https://i.imgur.com/lbiRxUl.png" alt="Javascript" width="48px"/></a>
+
+<a href="#" title="typescript">
+  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" alt="docker" width="48px"/></a>
+  
   <a href="#" title="Python">
   <img src="https://i.imgur.com/ItvUS0k.png" alt="Python" width="48px"/></a>
 <a href="#" title="Tailwind">
@@ -49,6 +53,7 @@
 
   <a href="#" title="react">
   <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="react" width="48px"/></a>
+
 
   <a href="#" title="mongodb">
   <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png" alt="mongodb" width="48px"/></a>
