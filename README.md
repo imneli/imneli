@@ -13,7 +13,7 @@
 
 <p align="center"> 
   My name is Matheus, welcome to my profile! I'm a developer who is studying Software Engineering at FIAP.
-  I'm currently delving deeper into Front End with Js.
+  I'm currently delving deeper into Front End with Ts and React.
 
 </p>
 
@@ -63,11 +63,6 @@
 
 </p>
 
-<div align="center">
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imneli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
- </div>
 
 <br>
 <br> 
