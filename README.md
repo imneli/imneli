@@ -13,7 +13,7 @@
 
 <p align="center"> 
   My name is Matheus, welcome to my profile! I'm a developer who is studying Software Engineering at FIAP.
-  I'm currently delving deeper into Front End with Ts and React.
+  I'm currently studying deeper into Front End with Ts and React.
 
 </p>
 
