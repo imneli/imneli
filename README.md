@@ -4,31 +4,17 @@
 <br>
 <br> 
 
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&random=false&width=435&lines=Hello+my+name+is+Neli!;Welcome+to+my+perfil)](https://git.io/typing-svg)
 
 </div>
 
 
-<p align="center"> 
+<p align="left"> 
   My name is Matheus, welcome to my profile! I'm a developer who is studying Software Engineering at FIAP.
   I'm currently studying deeper into Front End with Ts and React.
 
-</p>
-
-<p align="center">
-  <strong>Contact:</strong>
-</p>
-
-
-<p align="center">
-  <a class="redes" href="mailto:contatodoneli@gmail.com" title="Gmail">
-<img src="https://img.icons8.com/?size=256&id=Cjuj2uISMdQ1&format=png" width="96px" alt="Gmail"/></a>
-  <a class="redes" href="https://www.linkedin.com/in/matheus-montovaneli-4bbb04300/" title="LinkedIn">
-  <img src="https://img.icons8.com/?size=256&id=108812&format=png" width="96px" alt="LinkedIn"/></a>
-  <a class="redes" href="https://www.instagram.com/theuwsx/" title="Instagram">
-  <img src="https://img.icons8.com/?size=256&id=TEYr8ETaIfBJ&format=png" width="96px" alt="Instagram"/></a>
 </p>
 
 
@@ -66,15 +52,5 @@
 
 <br>
 <br> 
-<div align="center">
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=imneli&theme=tokyonight&hide_border=false)<br/>
 
- 
-  
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 
