@@ -11,10 +11,6 @@ const developer = {
   contact: {
     email: "contatodoneli@email.com",
   },
-  getFullName() {
-    return this.name;
-  },
 };
 
-console.log(developer.getFullName());
 ```
